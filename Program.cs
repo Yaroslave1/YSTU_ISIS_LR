@@ -4,6 +4,7 @@ double a;
 double b;
 double result;
 char oper;
+Console.WriteLine("Добро пожаловать в калькулятор. Вам необходимо ввести первое число, потом знак оператора (+,-,*,/,^) для выполнения действия и затем второе число для получения результата");
 Console.WriteLine("Введите первое число");
 a = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите знак оператора");
