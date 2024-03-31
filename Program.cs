@@ -1,5 +1,6 @@
 ﻿using System;
-
+char again = 'Y';
+while (again == 'Y') {
 double a;
 double b;
 double result;
@@ -35,4 +36,7 @@ else if (oper == '/')
     }
     result = a / b;
     Console.WriteLine("Деление " + a + " на " + b + " равна " + result);
+}
+Console.WriteLine("Вы хотите продолжить работу с калькулятором? (Y/N)");
+again = Convert.ToChar(Console.ReadLine());
 }

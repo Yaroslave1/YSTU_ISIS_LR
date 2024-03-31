@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YSTU_ISIS_LR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e69b26bd924c54bcf5c34fa7e3586c6a2f375059")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24fb93408258260140fa398f2b4565a696cd0a17")]
 [assembly: System.Reflection.AssemblyProductAttribute("YSTU_ISIS_LR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YSTU_ISIS_LR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
