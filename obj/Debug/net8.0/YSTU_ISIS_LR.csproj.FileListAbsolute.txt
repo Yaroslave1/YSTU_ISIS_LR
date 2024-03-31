@@ -1,0 +1,15 @@
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\bin\Debug\net8.0\YSTU_ISIS_LR.exe
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\bin\Debug\net8.0\YSTU_ISIS_LR.deps.json
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\bin\Debug\net8.0\YSTU_ISIS_LR.runtimeconfig.json
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\bin\Debug\net8.0\YSTU_ISIS_LR.dll
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\bin\Debug\net8.0\YSTU_ISIS_LR.pdb
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\obj\Debug\net8.0\YSTU_ISIS_LR.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\obj\Debug\net8.0\YSTU_ISIS_LR.AssemblyInfoInputs.cache
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\obj\Debug\net8.0\YSTU_ISIS_LR.AssemblyInfo.cs
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\obj\Debug\net8.0\YSTU_ISIS_LR.csproj.CoreCompileInputs.cache
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\obj\Debug\net8.0\YSTU_ISIS_LR.sourcelink.json
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\obj\Debug\net8.0\YSTU_ISIS_LR.dll
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\obj\Debug\net8.0\refint\YSTU_ISIS_LR.dll
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\obj\Debug\net8.0\YSTU_ISIS_LR.pdb
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\obj\Debug\net8.0\YSTU_ISIS_LR.genruntimeconfig.cache
+c:\Users\shutovyas.21\Desktop\Repos\YSTU_ISIS_LR\obj\Debug\net8.0\ref\YSTU_ISIS_LR.dll
