@@ -31,3 +31,9 @@ else if (oper == '/')
     result = a / b;
     Console.WriteLine("Деление " + a + " на " + b + " равна " + result);
 }
+else if (oper == '^') 
+{
+    result = Math.Pow(a,b);
+    Console.WriteLine("Возведение числа " + a +" в степень " + b +  " равно " + result);
+
+}
