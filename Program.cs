@@ -1,4 +1,5 @@
 ﻿using System;
+
 double a;
 double b;
 double result;
@@ -33,7 +34,4 @@ else if (oper == '/')
     }
     result = a / b;
     Console.WriteLine("Деление " + a + " на " + b + " равна " + result);
-}
-else {
-    Console.WriteLine("Неизвестный оператор");
 }
