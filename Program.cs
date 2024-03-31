@@ -28,6 +28,10 @@ else if (oper == '*')
 }
 else if (oper == '/')
 {
+    if (b == 0) {
+        Console.WriteLine("Ошибка! Делить на ноль нельзя!");
+        return;
+    }
     result = a / b;
     Console.WriteLine("Деление " + a + " на " + b + " равна " + result);
 }
